@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\hungry_ladybug.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\hungry_ladybug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\hungry_ladybug.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\hungry_ladybug.AssemblyInfo.cs
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\hungry_ladybug.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\bin\Debug\net6.0\hungry_ladybug.exe
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\bin\Debug\net6.0\hungry_ladybug.deps.json
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\bin\Debug\net6.0\hungry_ladybug.runtimeconfig.json
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\bin\Debug\net6.0\hungry_ladybug.dll
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\bin\Debug\net6.0\hungry_ladybug.pdb
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\hungry_ladybug.dll
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\refint\hungry_ladybug.dll
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\hungry_ladybug.pdb
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\hungry_ladybug.genruntimeconfig.cache
+C:\Users\dell\source\repos\hungry_ladybug\hungry_ladybug\obj\Debug\net6.0\ref\hungry_ladybug.dll
